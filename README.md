@@ -1,1 +1,1 @@
-# About the Project 📚
+# About the Project 📚 :smile:
