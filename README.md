@@ -3,7 +3,7 @@ Este projeto visa a aplicação de códigos para testes de hipóteses aprendidos
 
 # 🧪 Testes realizados
 - Kohmagorov Smirnof [OK]
-- Shapiro - Wilk [EM PROGRESSO]
-- O teste $x^2$ de Bortlett
-- Teste de Média Populacional (Zcalc)
+- Shapiro - Wilk [OK]
+- O teste $x^2$ de Bortlett [OK]
+- Teste de Média Populacional (Zcalc) [EM PROGRESSO]
 - Teste T-student
