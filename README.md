@@ -5,5 +5,5 @@ Este projeto visa a aplicação de códigos para testes de hipóteses aprendidos
 - Kohmagorov Smirnof [OK]
 - Shapiro - Wilk [OK]
 - O teste $x^2$ de Bortlett [OK]
-- Teste de Média Populacional (Zcalc) [EM PROGRESSO]
-- Teste T-student
+- >> Teste de Média Populacional (Zcalc) [EM PROGRESSO]
+- >> Teste T-student [EM PROGRESSO]
