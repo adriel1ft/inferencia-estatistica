@@ -9,4 +9,4 @@ Este projeto visa a aplicação de códigos para testes de hipóteses aprendidos
 - >> Teste T-student [EM PROGRESSO]
 # Material de estudo
 
-(teste)[https://www.geo.fu-berlin.de/en/v/soga-py/Basics-of-statistics/Continous-Random-Variables/Students-t-Distribution/Students-t-Distribution-in-Python/index.html]
+[Site com aqueles gráficos de distribuição normal pintado de vermelho em algumas partes](https://www.geo.fu-berlin.de/en/v/soga-py/Basics-of-statistics/Continous-Random-Variables/Students-t-Distribution/Students-t-Distribution-in-Python/index.html)
